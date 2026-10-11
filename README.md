@@ -1,4 +1,4 @@
-# SwitchFlix-Server-Tool# SwitchFlix Server Tool
+# SwitchFlix Server Tool
 
 A free Windows program that reads your ISP's media server, tests it the way the SwitchFlix app uses it, and writes a small file for your Switch's SD card. No typing long addresses on the Switch.
 
